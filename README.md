@@ -20,7 +20,8 @@ A comprehensive SQL data analysis project using the **Netflix Movies & TV Shows 
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-FF6F00?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-FF6F00?style=for-the-badge) 
+
 ![Netflix Dataset](https://img.shields.io/badge/Dataset-Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 
 </p>

@@ -1,0 +1,16 @@
+15 SQL Business Problems Solved Using the Netflix Dataset 
+Count the Number of Movies vs TV Shows
+Find the Most Common Rating for Movies and TV Shows
+List All Movies Released in 2020
+Find the Top 5 Countries with the Most Netflix Content
+Identify the Longest Movie on Netflix
+Find Content Added to Netflix in the Last 5 Years
+Find All Movies and TV Shows Directed by Rajiv Chilaka
+List All TV Shows with More Than 5 Seasons
+Count the Number of Titles Available in Each Genre
+Find the Top 5 Years with the Highest Percentage of Indian Content Releases
+List All Documentary Movies Available on Netflix
+Find All Content Without Director Information
+Find Salman Khan Movies Released in the Last 10 Years
+Find the Top 10 Actors Appearing in Indian Netflix Content
+Categorize Content as 'Good' or 'Bad' Based on Description Keywords
